@@ -3,6 +3,6 @@ This is a project try to use YOLO to do an object detection with pictures from G
 
 Cannot upload zipped picture files since the sizes are too large :(
 
-# Report missed
+Report missed :(
 
 Also worked with Kevin🧐
